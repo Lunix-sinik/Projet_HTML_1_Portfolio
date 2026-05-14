@@ -1,0 +1,23 @@
+table,
+td
+{
+    border: 1px solid #333;
+}
+thead tr td
+{
+    background-color: #333;
+    color: white;
+}
+
+.ligne-1
+{
+    color: red;
+}
+.ligne-2
+{
+    color: green;
+}
+.ligne-3
+{
+    color: blue;
+}
